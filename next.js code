@@ -9,7 +9,7 @@ const Home = () => {
         <div>
             <Head>
                 <title>My Single Page Website</title>
-                <meta name="description" content="A single page website created with Next.js" />
+                <meta name="Welcome" content="A single page website created with Next.js" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -19,7 +19,7 @@ const Home = () => {
             </main>
 
             <footer>
-                <p>Footer content goes here.</p>
+                <p>thank you</p>
             </footer>
         </div>
     );
